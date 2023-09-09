@@ -55,6 +55,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![output](https://github.com/Ragu-123/simplewebserver/assets/113915622/752f6b37-2845-4e4e-9a21-32251827c79d)
+![output1](https://github.com/Ragu-123/simplewebserver/assets/113915622/589302c3-26b5-4a8f-b75e-ae401483d6ee)
 
 
 
